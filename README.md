@@ -5,6 +5,7 @@ I'm Vasco, an applied statistician based in Lisbon. My academic background is in
 I love learning. Lately I've been working through:
 - Bruno Rodrigues's [Building reproducible analytical pipelines with R](https://raps-with-r.dev/), to improve my reproducibility toolkit and keep growing as an open scientist.
 - Emil Hvitfeldt and Julia Silge's [Supervised Machine Learning for Text Analysis in R](https://smltar.com/), to get comfortable building a text classification model for a client.
+- Stef van Buuren's [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/), to learn how to properly handle missing data and report analysis relying on multiple impuation.
 
 
 <!--
